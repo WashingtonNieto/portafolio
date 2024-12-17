@@ -219,6 +219,26 @@ h1{
     margin: 20px;
 }
 
+.articulos .card-header{
+    font-weight: bold;
+}
+
+
+/* Testimonios */
+.testimonios{
+    padding: 40px 40px 80px 40px;
+}
+
+.testimonios .carousel{
+    max-width: 800px;
+}
+
+.carousel-item{
+    height: 500px;
+    
+}
+
+
 
 /* adaptable (responsivo) */
 
